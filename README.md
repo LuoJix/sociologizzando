@@ -34,7 +34,7 @@ Giovanni Martini, sociologo. Dopo aver fatto l'insegnante, ha lavorato per più 
 
 ## I volumi
 
-- **1. Lo sappiamo già — Misurare le disuguaglianze di salute con dati pubblici e strumenti gratuiti**
+- **1. Lo sappiamo già — Misurare le disuguaglianze di salute con dati pubblici e strumenti gratuiti** — [materiali](https://doi.org/10.5281/zenodo.24371812)
 
 I libri sono gratuiti in digitale; il cartaceo, per chi lo preferisce, sta su Amazon. In questo repository ci sono, per ogni volume, il testo in `.md` e la cartella `Materiali/`; ogni versione dei materiali è archiviata anche su Zenodo, con un indirizzo stabile da citare.
 

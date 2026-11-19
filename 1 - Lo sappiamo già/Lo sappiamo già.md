@@ -2,7 +2,7 @@
 
 Accanto al libro ci sono i dati, i fogli elettronici e i programmi in R per rifare tutti i calcoli, con le istruzioni passo per passo. Sono gratuiti e stanno su Zenodo, un archivio pubblico per la ricerca che li conserva in modo permanente, a questo indirizzo:
 
-**[indirizzo dei materiali da completare]**
+**<https://doi.org/10.5281/zenodo.24371812>**
 
 L'indirizzo si scrive nella barra del browser, su un computer. Nella pagina che si apre c'è un file compresso (`.zip`) con tutto il contenuto: lo si scarica, e un doppio clic lo apre in una cartella. I materiali di questo libro stanno nella cartella `1 - Lo sappiamo già`, sotto `Materiali`. Si comincia dal file `LEGGIMI.md`, che spiega anche come installare i programmi gratuiti che servono; poi c'è una cartella per ogni capitolo con dei calcoli da rifare, da `capitolo-2` a `capitolo-6`, e il testo di quei capitoli dice quale aprire.
 

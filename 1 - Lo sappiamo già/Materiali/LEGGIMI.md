@@ -23,7 +23,7 @@ Si può cominciare dal foglio elettronico e passare a R quando si vuole.
 
 ## Scaricare i materiali
 
-Da Zenodo, l'archivio pubblico che conserva i materiali in modo permanente: nella pagina del deposito, [indirizzo dei materiali da completare], si scarica il file `.zip`. Un doppio clic lo apre e crea una cartella con tutto il contenuto. È l'indirizzo stampato nel libro, nella pagina «I materiali», e porta sempre alla versione più recente.
+Da Zenodo, l'archivio pubblico che conserva i materiali in modo permanente: nella pagina del deposito, <https://doi.org/10.5281/zenodo.24371812>, si scarica il file `.zip`. Un doppio clic lo apre e crea una cartella con tutto il contenuto. È l'indirizzo stampato nel libro, nella pagina «I materiali», e porta sempre alla versione più recente.
 
 Da GitHub: nella pagina della raccolta, <https://github.com/LuoJix/sociologizzando>, si fa clic sul pulsante verde **Code** e poi su **Download ZIP**, e si apre il file `.zip` allo stesso modo.
 
