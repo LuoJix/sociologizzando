@@ -8,6 +8,24 @@
   ],
   "autore": "Giovanni Martini",
   "materiali": "https://doi.org/10.5281/zenodo.24371812",
-  "parole_chiave": ["disuguaglianze di salute", "HEAT", "OMS"],
-  "quarta": "Il 21 novembre 1986 la Carta di Ottawa mise l'equità e la giustizia sociale fra i prerequisiti della salute, accanto alla pace, al cibo, all'istruzione e al reddito. Quarant'anni dopo, nel 2022, in Italia, fra i 30 e i 69 anni, chi aveva al massimo la licenza elementare è morto 2,3 volte più spesso di un laureato, a parità di età. Che la salute segua la scala sociale lo sappiamo già. Ma un piano di prevenzione che promette di ridurre le disuguaglianze deve poter dire, alla fine, se le ha ridotte: di quanto, per chi, rispetto a quando. Questo libro insegna a farlo con i dati che chiunque può scaricare, gli strumenti gratuiti dell'Organizzazione mondiale della sanità e un foglio elettronico. Quattro misure, e perché la differenza e il rapporto possono raccontare storie opposte sugli stessi numeri. Dove stanno i dati in Italia, e quali mancano. I comuni trentini messi in fila per reddito, che hanno quasi la stessa mortalità, mentre le persone divise per titolo di studio no. Un Trentino che sta meglio dell'Italia in ogni gruppo sociale, e non per questo è più equo. Come si chiede a un osservatorio la tabella che non pubblica, e come si scrive un obiettivo di equità in un piano. L'Inghilterra se ne diede uno nel 2001; nel 2010 la corte dei conti britannica constatò che lo stava mancando, e lo si seppe proprio perché era scritto. Un obiettivo che si può mancare è anche l'unico che si può raggiungere. Per chi lavora in un'azienda sanitaria o in un ufficio di programmazione, per chi siede in un consiglio, per chi scrive di sanità. Non serve saper programmare: accanto al libro ci sono i dati, i fogli elettronici e i programmi per rifare ogni calcolo."
+  "parole_chiave": [
+    "disuguaglianze di salute",
+    "misure di disuguaglianza",
+    "promozione della salute",
+    "Carta di Ottawa",
+    "HEAT",
+    "OMS",
+    "Trentino"
+  ],
+  "quarta": "Il 21 novembre 1986 la Carta di Ottawa mise l'equità e la giustizia sociale fra i prerequisiti della salute, accanto alla pace, al cibo, all'istruzione e al reddito. Quarant'anni dopo, nel 2022, in Italia, fra i 30 e i 69 anni, chi aveva al massimo la licenza elementare è morto 2,3 volte più spesso di un laureato, a parità di età. Che la salute segua la scala sociale lo sappiamo già. Ma un piano di prevenzione che promette di ridurre le disuguaglianze deve poter dire, alla fine, se le ha ridotte: di quanto, per chi, rispetto a quando. Questo libro insegna a farlo con i dati che chiunque può scaricare, gli strumenti gratuiti dell'Organizzazione mondiale della sanità e un foglio elettronico. Quattro misure, e perché la differenza e il rapporto possono raccontare storie opposte sugli stessi numeri. Dove stanno i dati in Italia, e quali mancano. I comuni trentini messi in fila per reddito, che hanno quasi la stessa mortalità, mentre le persone divise per titolo di studio no. Un Trentino che sta meglio dell'Italia in ogni gruppo sociale, e non per questo è più equo. Come si chiede a un osservatorio la tabella che non pubblica, e come si scrive un obiettivo di equità in un piano. L'Inghilterra se ne diede uno nel 2001; nel 2010 la corte dei conti britannica constatò che lo stava mancando, e lo si seppe proprio perché era scritto. Un obiettivo che si può mancare è anche l'unico che si può raggiungere. Per chi lavora in un'azienda sanitaria o in un ufficio di programmazione, per chi siede in un consiglio, per chi scrive di sanità. Non serve saper programmare: accanto al libro ci sono i dati, i fogli elettronici e i programmi per rifare ogni calcolo.",
+  "zenodo": {
+    "deposit_id": 24371972,
+    "url": "https://zenodo.org/record/24371972",
+    "pubblicato": true,
+    "doi_riservato": "10.5281/zenodo.24371972",
+    "doi": "10.5281/zenodo.24371972",
+    "concept_doi": "10.5281/zenodo.24371970",
+    "versione": "1.0"
+  },
+  "ebook": "https://doi.org/10.5281/zenodo.24371970"
 }
