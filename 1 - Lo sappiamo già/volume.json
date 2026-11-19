@@ -27,5 +27,9 @@
     "concept_doi": "10.5281/zenodo.24371970",
     "versione": "1.0"
   },
-  "ebook": "https://doi.org/10.5281/zenodo.24371970"
+  "ebook": "https://doi.org/10.5281/zenodo.24371970",
+  "internet_archive": {
+    "identifier": "collana-sociologizzando-01-lo-sappiamo-gia",
+    "url": "https://archive.org/details/collana-sociologizzando-01-lo-sappiamo-gia"
+  }
 }
