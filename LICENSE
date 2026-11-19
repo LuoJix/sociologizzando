@@ -1,7 +1,7 @@
 Collana Sociologizzando — testi dei volumi
 Copyright (c) Giovanni Martini
 
-Quest'opera e' distribuita con Licenza Creative Commons Attribuzione
+Quest'opera è distribuita con Licenza Creative Commons Attribuzione
 - Non commerciale - Condividi allo stesso modo 4.0 Internazionale
 (CC BY-NC-SA 4.0).
 
@@ -16,7 +16,7 @@ Sei libero di:
 
 Alle seguenti condizioni:
 
-  Attribuzione — devi riconoscere una menzione di paternita' adeguata,
+  Attribuzione — devi riconoscere una menzione di paternità adeguata,
   fornire un link alla licenza e indicare se sono state effettuate delle
   modifiche.
 
@@ -31,6 +31,9 @@ si trova all'indirizzo:
 
   https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.it
 
-Questa licenza si applica ai testi dei volumi. I programmi (in R, Python e
-nei fogli elettronici) sono distribuiti separatamente sotto licenza MIT: vedi
-il file LICENSE-CODE. I dati restano delle loro fonti, citate nei LEGGIMI.
+Questa licenza si applica ai testi dei volumi, ai LEGGIMI e alle immagini.
+I programmi (in R e in Python) e i fogli elettronici sono distribuiti sotto
+licenza MIT: vedi il file LICENSE-CODE. I dati originali restano delle loro
+fonti, con le loro licenze; le tabelle elaborate per i libri sono distribuite
+con licenza Creative Commons Attribuzione 4.0 (CC BY 4.0). Fonti e licenze
+sono indicate nel LEGGIMI dei materiali di ciascun volume.

@@ -1,0 +1,23 @@
+{
+  "title": "Collana Sociologizzando: libri e materiali",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "Martini, Giovanni"
+    }
+  ],
+  "description": "<p>Materiali della collana <em>Sociologizzando</em>, tutorial per fare ricerca sociale con dati pubblici e strumenti gratuiti, di Giovanni Martini. Ogni volume ha una cartella con il testo del libro e i materiali per rifare tutti i calcoli: dati, fogli elettronici, programmi in R e istruzioni passo per passo per chi non programma.</p><p>Per scaricare tutto: il pulsante «Download» del file .zip; dentro, la cartella del volume e poi quelle dei capitoli.</p><p>Volumi:</p><ul><li>1. <em>Lo sappiamo già</em>. Misurare le disuguaglianze di salute con dati pubblici e strumenti gratuiti (cartella «1 - Lo sappiamo già»)</li></ul><p>Testi: CC BY-NC-SA 4.0; programmi: MIT; i dati restano delle loro fonti, con le licenze indicate nel LEGGIMI di ogni volume.</p>",
+  "language": "ita",
+  "license": "cc-by-nc-sa-4.0",
+  "access_right": "open",
+  "keywords": [
+    "ricerca sociale",
+    "dati pubblici",
+    "tutorial",
+    "R",
+    "foglio elettronico",
+    "disuguaglianze di salute",
+    "HEAT",
+    "OMS"
+  ]
+}
