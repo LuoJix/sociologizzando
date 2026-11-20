@@ -12,6 +12,10 @@ La collana è scritta per loro. Ogni volume prende un metodo della ricerca socia
 
 *Sociologizzando* è un gerundio: la sociologia mentre la si fa. I volumi parlano poco di teorie e molto di operazioni: scaricare un file, costruire un indicatore, contare le parole di un documento, leggere un grafico, scrivere una richiesta di dati a un ente.
 
+## Citizen sociology
+
+Nelle scienze della natura si parla da tempo di *citizen science*, la scienza fatta con la partecipazione dei cittadini: chi conta gli uccelli di un bosco o registra la pioggia caduta nel proprio giardino manda i dati ai ricercatori, che li usano nei loro studi. Questa collana porta l'idea un passo più in là, e la chiama *citizen sociology*: il cittadino fa da sé tutto il percorso, dalla domanda al numero, con i dati che le istituzioni già pubblicano. Per questo la rifacibilità è la regola della collana: chi fa ricerca fuori dalle istituzioni non ha revisori, e la sua garanzia è che chiunque possa rifare i conti.
+
 ## Il criterio
 
 - **Metodi, non analisi.** Ogni volume lavora su un esempio vero, con dati veri, perché un metodo si capisce solo quando lo si vede funzionare (e quando lo si vede incepparsi). L'esempio però non sostiene una tesi: il suo risultato è quello che viene.
