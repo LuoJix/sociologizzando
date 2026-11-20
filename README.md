@@ -46,4 +46,4 @@ I programmi sono sotto licenza MIT. Vedi `LICENSE-CODE`.
 
 I dati originali restano delle loro fonti, con le loro licenze; le tabelle elaborate per i libri sono sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.it). Fonti e licenze sono nel `LEGGIMI` dei materiali di ciascun volume.
 
-*Aggiornato al 19 novembre 2026.*
+*Aggiornato al 20 novembre 2026.*
